@@ -66,5 +66,8 @@ It illustrates how you can achieve decentralized governance.
         
 #### Deployment Network
     Ethereum Goerli    
-    
+
+### Deployment Link
+https://cd-dex-umaresso.vercel.app/
+
 
